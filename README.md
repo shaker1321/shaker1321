@@ -1,10 +1,10 @@
 <div align="center">
 
 ### 👋 Hello World! I'm Jaemin!
-  
-  > 💡 be exploring new technologies.
-  
-  [<img src="https://img.shields.io/badge/-readme.md-green?style=flat&logo=google-chrome&logoColor=white" />]()
+  
+  > 💡 Be exploring new technologies.
+  
+  [<img src="https://img.shields.io/badge/-readme.md-green?style=flat&logo=google-chrome&logoColor=white" />]()
 </div>
 
 ---
@@ -19,11 +19,22 @@
 
 ---
 
+## 🌍 Other Skills / Tools
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</div>
+
+---
+
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaker1321&show_icons=true&theme=vue-dark" alt="My GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaker1321&layout=compact&theme=vue-dark" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shaker1321&show_icons=true&theme=vue-dark" alt="My GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaker1321&theme=vue-dark" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaker1321&layout=compact&theme=vue-dark" alt="Top Languages"/>
 </div>
 
 ---
@@ -31,5 +42,5 @@
 ## 📫 Connect with Me
 
 <div align="center">
-  <a href="mailto:h28582@outlook.kr"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
-</div>
+  <a href="mailto:h28582@outlook.kr"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
+  </div>
