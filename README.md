@@ -3,8 +3,9 @@
 ### 👋 Hello World! I'm Jaemin!
   
   > 💡 Be exploring new technologies.
-  
-  [<img src="https://img.shields.io/badge/-readme.md-green?style=flat&logo=google-chrome&logoColor=white" />]()
+
+  <br>
+  <img src="https://img.shields.io/badge/-readme.md-green?style=flat&logo=google-chrome&logoColor=white" />
 </div>
 
 ---
